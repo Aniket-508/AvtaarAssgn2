@@ -9,6 +9,10 @@
 
 ## Screenshots
 ### Add a user :
-![]()
+![](https://github.com/Aniket-508/AvtaarAssgn2/blob/main/Screenshot%20(187).png)
+![](https://github.com/Aniket-508/AvtaarAssgn2/blob/main/Screenshot%20(188).png)
 ### Add an event :
-![]()
+![](https://github.com/Aniket-508/AvtaarAssgn2/blob/main/Screenshot%20(185).png)
+![](https://github.com/Aniket-508/AvtaarAssgn2/blob/main/Screenshot%20(186).png)
+![](https://github.com/Aniket-508/AvtaarAssgn2/blob/main/Screenshot%20(189).png)
+![](https://github.com/Aniket-508/AvtaarAssgn2/blob/main/Screenshot%20(190).png)
